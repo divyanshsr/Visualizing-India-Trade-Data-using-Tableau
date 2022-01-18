@@ -1,6 +1,6 @@
 # Visualizing India's Trade Data using Tableau!
 
-This repository comtains 2 dataset containing the export/import data of commodities routed to different countries over the period of 2010-2018.
+This repository contains 2 dataset containing the export/import data of commodities routed to different countries over the period of 2010-2018.
 
 Data source: https://www.kaggle.com/lakshyaag/india-trade-data
 
@@ -18,6 +18,9 @@ Data source: https://www.kaggle.com/lakshyaag/india-trade-data
 
 ## Workbook Particulars:
 
+- Added `screens.pdf` containing the screenshots of this workbook.
+
+
 - Sheet 1: Understanding our data: What are HS2 codes?
 - Sheet 2: Here, we can visualize the exports of India between the year range of 2010 to 2018.
 - Sheet 3: Here, we can visualize the imports of India between the year range of 2010 to 2018.
@@ -33,6 +36,7 @@ Data source: https://www.kaggle.com/lakshyaag/india-trade-data
 - Sheet 13: Sorting major commodities in descending order based on percentage of total export.
 - Sheet 14: Using Calculated field to check the countries that have high export values and low export values.
 
+  
 ---
 
 
