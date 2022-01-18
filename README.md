@@ -1,6 +1,6 @@
 # Visualizing India's Trade Data using Tableau!
 
-This repository contains 2 dataset containing the export/import data of commodities routed to different countries over the period of 2010-2018.
+This repository contains 2 datasets and an assosciated Tableau workbook containing the export/import data of commodities routed to different countries over the period of 2010-2018.
 
 Data source: https://www.kaggle.com/lakshyaag/india-trade-data
 
